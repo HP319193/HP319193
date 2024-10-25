@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, &lt;Seniors/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, I'm Senior AI Software developer
 </h1>
 <p align="center">
     <a href="http://github.com/hi-tech-AI?tab=followers"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hi-tech-AI&color=blueviolet&style=plastic&label=PROFILE+VIEWS"></a>
